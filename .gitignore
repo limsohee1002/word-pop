@@ -1,4 +1,4 @@
-# Node Modules
-**/node_modules
-server/dist
-**/.DS_Store
+.DS_Store
+node_modules
+package-lock.json
+.env
